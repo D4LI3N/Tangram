@@ -1,11 +1,10 @@
 # Tangram
 Simple 2D OpenGL based Game
 
-# Flipper Ahoy
 
 [![badge](https://img.shields.io/badge/license-MIT-success.svg)](https://opensource.org/license/mit)
 [![badge](https://img.shields.io/badge/support-PayPal-blue.svg)](https://paypal.me/d4li3n)
-[![badge](https://img.shields.io/badge/publication-danielthecyberdude.com-purple.svg)](https://danielthecyberdude.com/project/shas)
+[![badge](https://img.shields.io/badge/publication-danielthecyberdude.com-purple.svg)](https://danielthecyberdude.com/project/tangram)
 
 
 ![badge](https://img.shields.io/badge/technology-Java-green.svg)
