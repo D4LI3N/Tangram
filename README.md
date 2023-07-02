@@ -70,7 +70,7 @@ The main objective of this Tangram game is to arrange a set of geometric shapes,
 
 # Releases
 [![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/D4LI3N/Tangram/releases/download/V1.0/Tangram_V1.0.exe)
-(MD5 Checksum: 4a2549652d08180a89dd0116480048bf)
+(MD5 Checksum: feedbe06c139b4dd32b178151fc0b008)
 <br>
 
 
