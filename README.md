@@ -19,12 +19,12 @@ Simple 2D OpenGL based Game
 **Tangram** is an engaging open-source 2D puzzle game that offers players three exciting levels, each adorned with captivating animal-themed shapes. The game features a remarkable animation that celebrates the completion of each level, bringing the shapes to life with vibrant visual animations. Notably, Tangram is built using core OpenGL instead of a game engine, highlighting its unique development approach. Its sleek design and user-friendly interface enhance the gameplay experience, while the inclusion of graphic options allows players to customize lighting effects and create their preferred ambience. Tangram offers a delightful combination of challenging puzzles, stunning visuals, and advanced graphics options, making it a must-play for puzzle enthusiasts.
 
 # Project Features
-- 3 unique levels
-- 4 geometrical shapes
-- graphical options
-- controls display
-- animations (after completion)
-- 3D rotation of the 2D shape (after completion)
+✔️ 3 unique levels
+✔️ 4 geometrical shapes
+✔️ graphical options
+✔️ controls display
+✔️ animations (after completion)
+✔️ 3D rotation of the 2D shape (after completion)
 
 # Operation
 ## Setup
