@@ -20,10 +20,15 @@ Simple 2D OpenGL based Game
 
 # Project Features
 ✔️ 3 unique levels
+
 ✔️ 4 geometrical shapes
+
 ✔️ graphical options
+
 ✔️ controls display
+
 ✔️ animations (after completion)
+
 ✔️ 3D rotation of the 2D shape (after completion)
 
 # Operation
